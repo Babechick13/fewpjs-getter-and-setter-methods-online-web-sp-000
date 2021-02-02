@@ -1,3 +1,4 @@
 // Add your Circle class here
 
-class
+class Circle
+
